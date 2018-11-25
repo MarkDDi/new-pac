@@ -1,4 +1,4 @@
-var proxy = "PROXY xi.dnsfree.space:80;";
+var proxy = "PROXY 172.16.9.29:9666;127.0.0.1:9666";
 
 var domains = {
   "huaglad.com": 1,
